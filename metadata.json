@@ -1,0 +1,7 @@
+{
+  "name": "ZenParticles AR",
+  "description": "A real-time interactive 3D particle system using Three.js and Webcam motion detection to control particle dynamics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
